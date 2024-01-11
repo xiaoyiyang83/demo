@@ -1,0 +1,19 @@
+p {
+    color:rgb(9, 9, 126);
+    margin:0 auto;
+    border: 5px solid black;
+}
+
+#main {
+    color:red;
+}
+
+.A {
+    color:green;
+}
+
+h1 {
+    margin: 0 auto;
+    width: 200px;
+    padding: 30px;
+}
